@@ -1,37 +1,38 @@
 # admPatients 🏥
 
-**admPatients** es una aplicación web sencilla para la gestión de pacientes. Fue desarrollada como ejercicio técnico para practicar el desarrollo de CRUDs, organización de vistas y estructura básica de un sistema de administración. Es parte de mi portfolio como desarrollador web.
+**admPatients** is a simple web application for patient management. It was developed as a technical exercise to practice CRUD operations, view organization, and the basic structure of an admin system. It is part of my portfolio as a web developer.
 
-## 🧠 Objetivo del proyecto
+## 🧠 Project Objective
 
-Mostrar habilidades en la construcción de una SPA básica (Single Page Application) que permite crear, listar y eliminar pacientes desde una interfaz clara e intuitiva. También demuestra conocimientos de integración con JavaScript, manipulación del DOM y manejo de formularios.
+The goal of this project is to demonstrate skills in building a basic SPA (Single Page Application) that allows creating, listing, and deleting patients from a clean and intuitive interface. It also shows knowledge of JavaScript integration, DOM manipulation, and form handling.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- 📋 Listado de pacientes registrados.
-- ➕ Registro de nuevos pacientes.
-- ❌ Eliminación de pacientes del listado.
-- 🖥 Interfaz simple, rápida y responsive.
-- 📂 Persistencia básica usando almacenamiento local (o se puede conectar a un backend si se desea extender).
+- 📋 View a list of registered patients.
+- ➕ Register new patients.
+- ❌ Delete patients from the list.
+- 🖥 Simple, fast, and responsive interface.
+- 📂 Basic persistence using local storage (can be extended with a real backend).
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Technologies Used
 
-- **Frontend:** HTML5, CSS3, JavaScript Vanilla
-- **Framework/Librerías:** Ninguna, enfoque educativo sin dependencias externas
-- **Persistencia:** LocalStorage (extensible a una base de datos real)
-- **Versionado:** Git + GitHub
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Frameworks/Libraries:** None — educational focus with no external dependencies
+- **Persistence:** LocalStorage (extensible to real databases)
+- **Version Control:** Git + GitHub
 
-## 📁 Estructura del proyecto
+## 📁 Project Structure
 admPatients/
-├── index.html # Página principal
+├── index.html # Main page
 ├── css/
-│ └── styles.css # Estilos personalizados
+│ └── styles.css # Custom styles
 ├── js/
-│ └── app.js # Lógica JS de la aplicación
-└── README.md # Este archivo
-## 📦 Instalación y ejecución
+│ └── app.js # JavaScript application logic
+└── README.md # This file
 
-1. Clona el repositorio:
+## 📦 Installation & Running
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/Benemox/admPatients.git
